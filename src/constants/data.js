@@ -4,12 +4,12 @@ const wines = [
   {
     title: 'Vin rouge de Bordeaux',
     price: '66€',
-    tags: 'FR | Bouteille, 75cl',
+    tags: 'FR | Bouteille 75cl',
   },
   {
     title: 'Vin rosé Espagnol',
     price: '44€',
-    tags: 'ES | Bouteille, 75cl',
+    tags: 'ES | Bouteille 75cl',
   },
   {
     title: 'Irish Guinness',
