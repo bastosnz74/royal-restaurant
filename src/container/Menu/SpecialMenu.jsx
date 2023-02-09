@@ -8,6 +8,7 @@ import './SpecialMenu.css';
 const SpecialMenu = () => (
   <div className="app__specialMenu flex__center section__padding" id="menu">
     <div className="app__specialMenu-title">
+      <SubHeading title="Le meilleur rien que pour vous." />
       <h1 className="headtext__cormorant">Menu du jour</h1>
     </div>
 
